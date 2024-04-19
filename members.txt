@@ -1,0 +1,12 @@
+		Machine Learning Assignment
+		Diabetes Analysis
+
+
+
+Student Name		  Student IT NO		Email
+
+Jayasena A.K.B.D	  IT21073946		it21073946@my.sliit.lk
+Achchige R.A.N.R 	  IT21102264		it21102264@my.sliit.lk
+Abegunasekara P.W.A.B.N   IT21104176		it21104176@my.sliit.lk
+Padmasiri P.G.S.M 	  IT21078996		it21078996@my.sliit.lk
+
